@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cejottge
-- 👀 I’m interested in Java development
+- 👀 I’m interested in JAVA and ANGULAR development
 
 <!---
 cejottge/cejottge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
